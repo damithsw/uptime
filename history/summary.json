@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 143,
+    "timeDay": 226,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cebassist.ceb.lk.ico",
     "slug": "cebassist",
     "status": "down",
-    "uptime": "17.89%",
-    "uptimeDay": "17.89%",
-    "uptimeWeek": "17.89%",
-    "uptimeMonth": "17.89%",
-    "uptimeYear": "17.89%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 2
+      "2023-02-25": 73,
+      "2023-02-24": 1161
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cebcare.ceb.lk.ico",
     "slug": "cebcare",
     "status": "down",
-    "uptime": "21.62%",
-    "uptimeDay": "21.62%",
-    "uptimeWeek": "21.62%",
-    "uptimeMonth": "21.62%",
-    "uptimeYear": "21.62%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 2
+      "2023-02-25": 73,
+      "2023-02-24": 1161
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cebcare2.ceb.lk.ico",
     "slug": "cebcare2",
     "status": "down",
-    "uptime": "28.58%",
-    "uptimeDay": "28.58%",
-    "uptimeWeek": "28.58%",
-    "uptimeMonth": "28.58%",
-    "uptimeYear": "28.58%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 1
+      "2023-02-25": 73,
+      "2023-02-24": 1160
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.cebassist.ceb.lk.ico",
     "slug": "help-cebassist",
     "status": "down",
-    "uptime": "40.26%",
-    "uptimeDay": "40.26%",
-    "uptimeWeek": "40.26%",
-    "uptimeMonth": "40.26%",
-    "uptimeYear": "40.26%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 1
+      "2023-02-25": 73,
+      "2023-02-24": 1159
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pay.ceb.lk.ico",
     "slug": "pay-ceb",
     "status": "down",
-    "uptime": "70.34%",
-    "uptimeDay": "70.34%",
-    "uptimeWeek": "70.34%",
-    "uptimeMonth": "70.34%",
-    "uptimeYear": "70.34%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-25": 73,
+      "2023-02-24": 1159
     }
   }
 ]
